@@ -1,0 +1,12 @@
+style:
+  UnusedPrivateMember:
+    active: false
+  WildcardImport:
+    active: false
+  MagicNumber:
+    active: false
+complexity:
+  TooManyFunctions:
+    active: true
+    thresholdInFiles: 15
+    thresholdInClasses: 15
